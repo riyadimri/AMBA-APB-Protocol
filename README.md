@@ -1,10 +1,10 @@
 ## AMBA APB Design and Verification
-### AMBA
+### What is AMBA?
 - AMBA (Advanced microcontroller bus architecture) is a widely used open-standard set of protocols, developed by ARM.
 - **purpose**: To standradize the communication between various component inside the SoC.
 - APB is one of common protocol of AMBA Family.
 ---
-### what is APB Protocol?
+### What is APB Protocol?
 - **APB**: Advance Peripheral Bus.
 - It is a non-pipelined, simple and synchronous protocol.
 - Every transfer need atleast two cycles to complete.
@@ -15,3 +15,4 @@
 - **3. ACCESS**: PENABLE is also asserted. Exit from the Access state is controlled by the PREADY Signal.
 ---
 ### Demo Video
+-[![Watch video here: AMBA APB Protocol Explained](https://img.youtube.com/vi/cgYIKDwD4zI/0.jpg)](https://youtu.be/cgYIKDwD4zI)
